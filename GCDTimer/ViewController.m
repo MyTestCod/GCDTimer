@@ -22,6 +22,7 @@
     [super viewDidLoad];
     
     self.view.backgroundColor = [UIColor orangeColor];
+    NSLog(@"hesfirst创建了一个branch");
 }
 
 - (IBAction)countdownAction:(id)sender {
